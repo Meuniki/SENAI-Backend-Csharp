@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\BACKEND\\aula01\\aula01.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-Csharp\\aula01\\aula01.csproj",
       "projectName": "aula01",
-      "projectPath": "C:\\Users\\fic\\Desktop\\BACKEND\\aula01\\aula01.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-Csharp\\aula01\\aula01.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\BACKEND\\aula01\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-Csharp\\aula01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
