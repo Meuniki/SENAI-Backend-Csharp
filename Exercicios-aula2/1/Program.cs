@@ -7,7 +7,7 @@ namespace _1
         static void Main(string[] args)
         {
             float sal, desp, total;
-            str final;
+            string final;
 
             Console.Write("Digite seu salário: R$");
             sal = float.Parse(Console.ReadLine());
