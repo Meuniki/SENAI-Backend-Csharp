@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\bin\Debug\netcoreapp2.2\atididade-do-while.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\bin\Debug\netcoreapp2.2\atididade-do-while.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\bin\Debug\netcoreapp2.2\atididade-do-while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\bin\Debug\netcoreapp2.2\atididade-do-while.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\bin\Debug\netcoreapp2.2\atididade-do-while.pdb
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\atididade-do-while\obj\Debug\netcoreapp2.2\atididade-do-while.pdb
