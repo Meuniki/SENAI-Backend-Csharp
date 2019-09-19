@@ -25,32 +25,32 @@ namespace _2
             switch(planeta){
 
                 case "1":
-                peso_relativo = (peso/1)*0.37;
+                peso_relativo = peso*0.37;
                 Console.WriteLine($"Seu peso em Mercúrio é de {peso_relativo}Kg");
                 break;
 
                 case "2":
-                peso_relativo = (peso/1)*0.88;
+                peso_relativo = peso*0.88;
                 Console.WriteLine($"Seu peso em Vênus é de {peso_relativo}Kg");
                 break;
 
                 case "3":
-                peso_relativo = (peso/1)*0.38;
+                peso_relativo = peso*0.38;
                 Console.WriteLine($"Seu peso em Marte é de {peso_relativo}Kg");
                 break;
 
                 case "4":
-                peso_relativo = (peso/1)*2.64;
+                peso_relativo = peso*2.64;
                 Console.WriteLine($"Seu peso em Júpter é de {peso_relativo}Kg");
                 break;
 
                 case "5":
-                peso_relativo = (peso/1)*1.15;
+                peso_relativo = peso*1.15;
                 Console.WriteLine($"Seu peso em Saturno é de {peso_relativo}Kg");;
                 break;
 
                 case "6":
-                peso_relativo = (peso/1)*1.17;
+                peso_relativo = peso*1.17;
                 Console.WriteLine($"Seu peso em Urano é de {peso_relativo}Kg");
                 break;
 
