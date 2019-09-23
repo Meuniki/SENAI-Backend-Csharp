@@ -6,18 +6,14 @@ namespace _6 {
 
             Console.WriteLine ("Fibonacci.");
 
-            int num1 = 0, num2 = 1, cont = 0;
+            int num1 = 0, num2 = 1;
 
-            Console.WriteLine (num1);
-            Console.WriteLine (num2);
+            for(int i=0; i<=9; i++) {
 
-            while (8 >= cont) {
-
-                num1 += num2;
-                num2 += num1;
                 Console.WriteLine (num1);
                 Console.WriteLine (num2);
-                cont++;
+                num1 += num2;
+                num2 += num1;
 
             }
         }

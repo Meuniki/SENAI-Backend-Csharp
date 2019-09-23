@@ -14,7 +14,7 @@ namespace aula3 {
             }
 
             //LAÇO CONTADO - FOR - DECREMENTO (-)
-            for (int cont2 = 100; cont2 >= 0; con2t--) {
+            for (int cont2 = 100; cont2 >= 0; cont2--) {
                 if (cont2 % 2 != 0) {
 
                     //Verificamos se o número é diferente de par
