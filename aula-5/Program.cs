@@ -51,12 +51,7 @@ namespace aula_5 {
                                 Console.WriteLine ();
                                 Console.WriteLine ($"Passagem Nº {i+1}");
 
-                                Console.WriteLine (nome[i]+"\n"+origen[i]+"\n"+destino[i]);
-                                Console.WriteLine (origen[i]);
-                                Console.WriteLine (destino[i]);
-                                Console.WriteLine (data_ida[i]);
-                                Console.WriteLine (data_volta[i]);
-                                Console.WriteLine ();
+                                Console.WriteLine (nome[i]+"\n"+origen[i]+"\n"+destino[i]+"\n"+data_ida[i]+"\n"+data_volta[i]+"\n");
 
                             }
                         }
@@ -68,8 +63,9 @@ namespace aula_5 {
 
                     default:
                     Console.WriteLine("Entrada invalida");
+                    break;
                 }
-                break;
+                
 
 
             }
