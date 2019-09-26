@@ -20,8 +20,9 @@ namespace aula_6_2_CPF {
             string digito_v1   = ""; 
             string digito_v2   = ""; 
 
-            // cpfUser         = cpfUser.Trim ('.');
-            // cpfUser         = cpfUser.Trim ('-');
+            cpfUser         = cpfUser.Replace (" ", "");
+            cpfUser         = cpfUser.Replace ("-", "");
+            cpfUser         = cpfUser.Replace (".", "");
 
             cpfcalcuolo        = cpfUser.Substring(0,9);
 
@@ -40,6 +41,8 @@ namespace aula_6_2_CPF {
 
             if(digito_v1 == cpfUser[9].ToString()){
                 resultado      = true;
+            }else{
+                resultado      = false;
             }
 
             int[] v2           = {11, 10, 9, 8, 7, 6, 5, 4, 3, 2};
@@ -65,6 +68,12 @@ namespace aula_6_2_CPF {
             }else{
                 resultado      = false;
             }
+
+            // if(digito_v1 == true && digito_v2 == true){
+            //     resultado = true;
+            // }else{
+            //     resultado      = false;
+            // }
 
 
             return resultado;
