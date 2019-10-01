@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\bin\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\bin\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\bin\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\bin\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\bin\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.pdb
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.dll
+C:\Users\fic\Desktop\SENAI-Backend-Csharp\aula-12-POO-heranca-Composicao-Polimorfismo\obj\Debug\netcoreapp2.2\aula-12-POO-heranca-Composicao-Polimorfismo.pdb

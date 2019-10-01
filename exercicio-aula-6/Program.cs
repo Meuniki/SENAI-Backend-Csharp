@@ -3,6 +3,7 @@
 namespace exercicio_aula_6 {
     class Program {
         static void Main (string[] args) {
+            
             Console.WriteLine ("Digite o CNPJ: ");
             string cnpj = Console.ReadLine ();
 
@@ -13,7 +14,6 @@ namespace exercicio_aula_6 {
 
             bool resultado = false;
             int[] v1 = { 6, 7, 8, 9, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-            string cnpjcalcuolo = "";
             string cnpjcalcuolo2 = "";
             int resto = 0;
             int calculo = 0;

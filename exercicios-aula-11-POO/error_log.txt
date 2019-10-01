@@ -1,0 +1,15 @@
+segunda-feira, 30 de setembro de 2019
+15:53
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(ReadOnlySpan`1 str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(ReadOnlySpan`1 s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at exercicios_aula_11_POO.Controllers.PessoasControllers.CadastrarPessoa() in C:\Users\fic\Desktop\SENAI-Backend-Csharp\exercicios-aula-11-POO\Controllers\PessoasControllers.cs:line 17
+
+segunda-feira, 30 de setembro de 2019
+15:54
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ParseDouble(ReadOnlySpan`1 value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Double.Parse(String s)
+   at exercicios_aula_11_POO.Controllers.PessoasControllers.CadastrarPessoa() in C:\Users\fic\Desktop\SENAI-Backend-Csharp\exercicios-aula-11-POO\Controllers\PessoasControllers.cs:line 25
+
